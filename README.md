@@ -9,13 +9,13 @@
 
 ![Gambar 1](screenshoot/download_git.png)
 
-3. Kemudian klik download, dan sesuaikan dengan arsitektur komputer anda.
+3. Kemudian klik "download", dan sesuaikan dengan arsitektur komputer anda.
 
-4. Jika sudah di download, klik install lalu klik next seperti gambar di bawah ini,
+4. Jika sudah di download, klik "install" lalu klik "next" seperti gambar di bawah ini,
 
 ![Gambar 2](screenshoot/install_git1.jpg)
 
-5. Jika sudah sampai pada proses di bawah ini maka proses instalasi berhasil, lalu klik finish.
+5. Jika sudah sampai pada proses di bawah ini maka proses instalasi berhasil, lalu klik "finish".
 
 ![Gambar 3](screenshoot/install_git15.jpg)
 
@@ -29,4 +29,8 @@
 
 ![Gambar 5](screenshoot/halaman_github.png)
 
-2. 
+2. Jika sudah memiliki akun, klik "sign in" lalu masukkan username beserta password. Jika belum klik "sign Up", maka akan ada perintah untuk membuat username, password dan memasukkan alamat email.
+
+3. Setelah selesai membuat akun, akan muncul tampilan seperti di bawah ini,
+
+![img] screenshoot/halaman_github2.png
