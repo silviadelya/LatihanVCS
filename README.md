@@ -12,4 +12,4 @@
 5. Jika sudah sampai pada proses di bawah ini maka proses instalasi berhasil, lalu klik finish.
 ![Gambar 3](screenshoot/install_git15.jpg)
 6. Kemudian akan muncul command seperti gambar berikut,
-![img] screenshoot/git2.png
+![Gambar 4](screenshoot/git2.png)
