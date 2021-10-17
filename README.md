@@ -113,3 +113,7 @@ Perintah ini akan meminta username dan password github anda.
 
 ![Gambar 17](screenshoot/githubb.jpg)
 
+
+
+<h2>Sekian Terimakasih</h2>
+
