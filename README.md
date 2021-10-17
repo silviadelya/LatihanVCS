@@ -35,6 +35,10 @@
 
 ![Gambar 6](screenshoot/halaman_github2.png)
 
-4. Lalu klik "new repsitory" (ikon +) 
+4. Lalu klik "new repository" (ikon +) 
 
 ![Gambar 7](screenshoot/github.jpg)
+
+5. Kemudian isi nama repository, lalu setting repository public/private. Pilih "add a README file", lalu klik "create repository"
+
+![img] screenshoot/membuat_repository.jpg
