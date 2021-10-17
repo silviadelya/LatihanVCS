@@ -37,4 +37,4 @@
 
 4. Lalu klik "new repsitory" (ikon +) 
 
-![img] screenshoot/github.jpg
+![Gambar 7](screenshoot/github.jpg)
