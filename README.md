@@ -56,8 +56,8 @@
 <h1>Menambahkan Global Config</h1>
 
 Buka aplikasi Git, kemudian ketik :
-<b>git config --global user.name "nama_user"</b>
-<b>git config --global user.email "email_user"</b>
+<p><b>git config --global user.name "nama_user"</b></p>
+<p><b>git config --global user.email "email_user"</b></p>
 Perintah ini dilakukan saat pertama kali menggunakan git
 
 ![Gambar 10](screenshoot/git_config.jpg)
@@ -68,5 +68,5 @@ Perintah ini dilakukan saat pertama kali menggunakan git
 
 Gunakan perintah <b>git init</b> Jika berhasil maka akan muncul tampilan seperti berikut,
 
-![img] screenshoot/git.init.png
+![Gambar 11](screenshoot/git.init.png)
 
