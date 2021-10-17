@@ -1,5 +1,4 @@
-# LatihanVCS
-## Tutorial Penggunaan Git
+# Tutorial Penggunaan Git
 
 
 
@@ -68,7 +67,7 @@ Perintah ini dilakukan saat pertama kali menggunakan git
 
 Gunakan perintah <b>git init</b> . Jika berhasil maka akan muncul tampilan seperti berikut,
 
-![Gambar 11](screenshoot/git_init.png)
+![img] screenshoot/init2.jpg
 
 
 
@@ -93,6 +92,14 @@ Gunakan perintah <b>git add README.md</b>
 Gunakan perintah <b>git commit -m "komentar commit"</b>
 
 ![Gambar 14](screenshoot/commit.png)
+
+
+
+<h1>Menambahkan Remote Repository</h1>
+
+Gunakan perintah <b>git remote add origin [url]</b>
+
+![img] screenshoot/.png
 
 
 
