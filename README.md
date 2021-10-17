@@ -34,3 +34,7 @@
 3. Setelah selesai membuat akun, akan muncul tampilan seperti di bawah ini,
 
 ![Gambar 6](screenshoot/halaman_github2.png)
+
+4. Lalu klik "new repsitory" (ikon +) 
+
+![img] screenshoot/github.jpg
