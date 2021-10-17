@@ -75,7 +75,7 @@ Gunakan perintah <b>git init</b> . Jika berhasil maka akan muncul tampilan seper
 
 Gunakan perintah <b>echo "#nama_file" >> README.md</b>
 
-![Gambar 12](screenshoot/echo3.png)
+![Gambar 12](screenshoot/echo3.jpg)
 
 
 
@@ -83,7 +83,7 @@ Gunakan perintah <b>echo "#nama_file" >> README.md</b>
 
 Gunakan perintah <b>git add README.md</b>
 
-![Gambar 13](screenshoot/git_add.png)
+![Gambar 13](screenshoot/git_add.jpg)
 
 
 
@@ -91,7 +91,7 @@ Gunakan perintah <b>git add README.md</b>
 
 Gunakan perintah <b>git commit -m "komentar commit"</b>
 
-![Gambar 14](screenshoot/commit2.png)
+![Gambar 14](screenshoot/commit2.jpg)
 
 
 
@@ -99,8 +99,12 @@ Gunakan perintah <b>git commit -m "komentar commit"</b>
 
 Gunakan perintah <b>git remote add origin [url]</b>
 
-![Gambar 15](screenshoot/remote.png)
+![Gambar 15](screenshoot/remote.jpg)
 
 
 
+<h1>Mengirim Perubahan Ke Server</h1>
 
+Gunakan perintah <b>git push -u origin master</b>
+
+![img] screenshoot/push.jpg
