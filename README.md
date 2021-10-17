@@ -66,7 +66,7 @@ Perintah ini dilakukan saat pertama kali menggunakan git
 
 <h1>Membuat Repository Local</h1>
 
-Gunakan perintah <b>git init</b> Jika berhasil maka akan muncul tampilan seperti berikut,
+Gunakan perintah <b>git init</b> . Jika berhasil maka akan muncul tampilan seperti berikut,
 
 ![Gambar 11](screenshoot/git_init.png)
 
@@ -75,6 +75,8 @@ Gunakan perintah <b>git init</b> Jika berhasil maka akan muncul tampilan seperti
 <h1>Membuat File Baru Pada Repository</h1>
 
 Gunakan perintah <b>echo "#nama_file" >> README.md</b>
+
+![img] screenshoot/echo.png
 
 
 
