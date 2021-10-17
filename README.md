@@ -3,7 +3,7 @@
 
 ### Menginstall Git
 
-1. Sebelum menggunakan git, download terlebih dahulu git di <a href="url">git-scm.com</a>
+1. Sebelum menggunakan git, download terlebih dahulu git di <a href="git-scm.com">Git</a>
 
 2. Lalu akan muncul tampilan seperti dibawah ini,
 ![Gambar 1](screenshoot/download_git.png)
@@ -21,7 +21,7 @@
 
 #### Membuat Repository Server
 
-1. Membuat akun github terlebih dahulu di <a href="url">github.com</a> . Tampilannya akan seperti dibawah ini,
+1. Membuat akun github terlebih dahulu di <a href="github.com">Github</a> . Tampilannya akan seperti dibawah ini,
 ![Gambar 5](screenshoot/halaman_github.png)
 
 2. 
