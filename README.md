@@ -46,3 +46,9 @@
 6. Jika sudah selesai akan muncul tampilan di bawah ini,
 
 ![Gambar 9](screenshoot/membuat_repository2.jpg)
+
+<h1>Menambahkan Global Config</h1>
+
+1. Buka aplikasi Git, kemudian ketik <b>git config --global user.name "nama_user"</b> dan <b>git config --global user.email "nama_user"</b> . Lihat pada gambar berikut,
+
+![img] screenshoot/git_config.jpg
