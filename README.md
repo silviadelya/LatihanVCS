@@ -108,3 +108,8 @@ Gunakan perintah <b>git remote add origin [url]</b>
 Gunakan perintah <b>git push -u origin master</b>
 
 ![Gambar 16](screenshoot/push.jpg)
+
+Perintah ini akan meminta username dan password github anda.
+
+![img] screenshoot/githubb.jpg
+
