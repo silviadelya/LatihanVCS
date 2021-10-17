@@ -51,4 +51,4 @@
 
 1. Buka aplikasi Git, kemudian ketik <b>git config --global user.name "nama_user"</b> dan <b>git config --global user.email "nama_user"</b> . Lihat pada gambar berikut,
 
-![img] screenshoot/git_config.jpg
+![Gambar 10](screenshoot/git_config.jpg)
