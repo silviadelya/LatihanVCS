@@ -7,4 +7,4 @@
 ![Gambar 1](screenshoot/download_git.png)
    Kemudian klik download, dan sesuaikan dengan arsitektur komputer anda.
 3. Jika sudah di download, klik install seperti gambar di bawah ini,
-![Gambar 2](screenshot/install_git1.jpg)
+![img] screenshot/install_git1.jpg
