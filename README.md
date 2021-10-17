@@ -1,6 +1,8 @@
 # LatihanVCS
 ## Tutorial Penggunaan Git
 
+
+
 <h1>Menginstall Git</h1>
 
 1. Sebelum menggunakan git, download terlebih dahulu git di <a href="https://git-scm.com">Git</a>
@@ -22,6 +24,8 @@
 6. Kemudian akan muncul command seperti gambar berikut,
 
 ![Gambar 4](screenshoot/git2.png)
+
+
 
 <h1>Membuat Repository Server</h1>
 
@@ -47,8 +51,22 @@
 
 ![Gambar 9](screenshoot/membuat_repository2.jpg)
 
+
+
 <h1>Menambahkan Global Config</h1>
 
-1. Buka aplikasi Git, kemudian ketik <b>git config --global user.name "nama_user"</b> dan <b>git config --global user.email "nama_user"</b> . Lihat pada gambar berikut,
+Buka aplikasi Git, kemudian ketik :
+<b>git config --global user.name "nama_user"</b>
+<b>git config --global user.email "email_user"</b>
+Perintah ini dilakukan saat pertama kali menggunakan git
 
 ![Gambar 10](screenshoot/git_config.jpg)
+
+
+
+<h1>Membuat Repository Local</h1>
+
+Gunakan perintah <b>git init</b> Jika berhasil maka akan muncul tampilan seperti berikut,
+
+![img] screenshoot/git.init.png
+
