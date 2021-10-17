@@ -11,4 +11,4 @@
 4. Jika sudah di download, klik install seperti gambar di bawah ini,
 ![Gambar 2](screenshoot/install_git1.jpg)
 5. Kemudian klik next, jika sudah sampai pada proses di bawah ini maka proses instalasi berhasil.
-![img] screenshoot/install_git15.jpg
+![Gambar 3](screenshoot/install_git15.jpg)
