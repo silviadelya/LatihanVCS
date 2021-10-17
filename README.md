@@ -107,4 +107,4 @@ Gunakan perintah <b>git remote add origin [url]</b>
 
 Gunakan perintah <b>git push -u origin master</b>
 
-![img] screenshoot/push.jpg
+![Gambar 16](screenshoot/push.jpg)
