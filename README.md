@@ -88,4 +88,12 @@ Gunakan perintah <b>git add README.md</b>
 
 
 
+<h1>Menyimpan Perubahan Ke Database</h1>
+
+Gunakan perintah <b>git commit -m "komentar commit"</b>
+
+![img] screenshoot/commit.png
+
+
+
 
