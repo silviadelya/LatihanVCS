@@ -68,7 +68,7 @@ Perintah ini dilakukan saat pertama kali menggunakan git
 
 Gunakan perintah <b>git init</b> Jika berhasil maka akan muncul tampilan seperti berikut,
 
-![Gambar 11](screenshoot/git_init.png)
+![img] screenshoot/git_init.png
 
 
 
