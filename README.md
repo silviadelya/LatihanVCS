@@ -23,7 +23,7 @@
 
 ![Gambar 4](screenshoot/git2.png)
 
-<h2>Membuat Repository Server</h2>
+<h1>Membuat Repository Server</h1>
 
 1. Membuat akun github terlebih dahulu di <a href="https://github.com">Github</a> . Tampilannya akan seperti dibawah ini,
 
