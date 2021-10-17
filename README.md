@@ -80,3 +80,12 @@ Gunakan perintah <b>echo "#nama_file" >> README.md</b>
 
 
 
+<h1>Menambah File Baru Pada Repository</h1>
+
+Gunakan perintah <b>git add README.md</b>
+
+![img] screenshoot/readme.png
+
+
+
+
