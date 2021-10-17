@@ -68,5 +68,13 @@ Perintah ini dilakukan saat pertama kali menggunakan git
 
 Gunakan perintah <b>git init</b> Jika berhasil maka akan muncul tampilan seperti berikut,
 
-![Gambar 11](screenshoot/git.init.png)
+![Gambar 11](screenshoot/git_init.png)
+
+
+
+<h1>Membuat File Baru Pada Repository</h1>
+
+Gunakan perintah <b>echo "#nama_file" >> README.md</b>
+
+
 
