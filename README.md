@@ -84,7 +84,7 @@ Gunakan perintah <b>echo "#nama_file" >> README.md</b>
 
 Gunakan perintah <b>git add README.md</b>
 
-![img] screenshoot/readme.png
+![Gambar 13](screenshoot/readme.png)
 
 
 
