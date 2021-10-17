@@ -115,5 +115,5 @@ Perintah ini akan meminta username dan password github anda.
 
 
 
-<h2>Sekian Terimakasih</h2>
+<h3>Sekian Terimakasih</h3>
 
