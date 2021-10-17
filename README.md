@@ -41,4 +41,4 @@
 
 5. Kemudian isi nama repository, lalu setting repository public/private. Pilih "add a README file", lalu klik "create repository"
 
-![img] screenshoot/membuat_repository.jpg
+![Gambar 8](screenshoot/membuat_repository.jpg)
