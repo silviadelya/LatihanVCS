@@ -99,7 +99,7 @@ Gunakan perintah <b>git commit -m "komentar commit"</b>
 
 Gunakan perintah <b>git remote add origin [url]</b>
 
-![img] screenshoot/.png
+![img] screenshoot/remote.png
 
 
 
