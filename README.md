@@ -75,7 +75,7 @@ Gunakan perintah <b>git init</b> . Jika berhasil maka akan muncul tampilan seper
 
 Gunakan perintah <b>echo "#nama_file" >> README.md</b>
 
-![Gambar 12](screenshoot/echo3.jpg)
+![img] screenshoot/echo3.jpg
 
 
 
