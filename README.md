@@ -45,4 +45,4 @@
 
 6. Jika sudah selesai akan muncul tampilan di bawah ini,
 
-![img] screenshoot/membuat_repository2.jpg
+![Gambar 9](screenshoot/membuat_repository2.jpg)
