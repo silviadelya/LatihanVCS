@@ -91,7 +91,7 @@ Gunakan perintah <b>git add README.md</b>
 
 Gunakan perintah <b>git commit -m "komentar commit"</b>
 
-![Gambar 14](screenshoot/commit.png)
+![img] screenshoot/commit2.png
 
 
 
