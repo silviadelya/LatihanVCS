@@ -33,4 +33,4 @@
 
 3. Setelah selesai membuat akun, akan muncul tampilan seperti di bawah ini,
 
-![img] screenshoot/halaman_github2.png
+![Gambar 6](screenshoot/halaman_github2.png)
