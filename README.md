@@ -111,5 +111,5 @@ Gunakan perintah <b>git push -u origin master</b>
 
 Perintah ini akan meminta username dan password github anda.
 
-![img] screenshoot/githubb.jpg
+![Gambar 17](screenshoot/githubb.jpg)
 
